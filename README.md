@@ -14,6 +14,12 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 License/Copyright
 =================
+1, add background image to body
+2, let background fit webpage and extend vartically only
+3, set paragraph margin top/bottom to 20pt
+4, img margin are setted to put image in the center
+5, all headers are now italic 
+
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the

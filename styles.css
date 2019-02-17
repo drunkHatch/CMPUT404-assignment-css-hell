@@ -2,13 +2,23 @@ body { margin-right: 15%;
        margin-left: 15%;
        font-family: "Times New Roman", serif;
        text-align: justify;
-       background-image: url('image/it_looks_old.jpg'); }
+       background-image: url('image/it_looks_old.jpg');
+       background-size: contain;
+       height: 100%;
+ }
 
 p {text-indent: 3%;
-   margin-top: 0.25em;
-   margin-bottom: 0.25em;}
+   margin-top: 20pt;
+   margin-bottom: 20pt;
+ }
 
-h1, h2, h3, h4, h5, h6 {text-align: center; font-style: normal;
+img {
+   display: block;
+   margin-left: 30%;
+   margin-right: 20%;
+}
+
+h1, h2, h3, h4, h5, h6 {text-align: center; font-style: italic;
 font-weight: normal; line-height: 1.5; margin-top: .5em; margin-bottom:
 .5em;}
 
