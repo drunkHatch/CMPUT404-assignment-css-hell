@@ -39,12 +39,12 @@
     - [ ] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
-** Part II 
+** Part II
 
    You're going to make your own HTML page and you're going to make 2
    CSS themes for it.
 
-   Emulate the 2nd and 3rd design from this comic: 
+   Emulate the  2nd and 3rd design from this comic:
    http://theoatmeal.com/comics/design_hell
 
    But instead make a 1 webpage about each assignment partner (1 page
@@ -116,4 +116,4 @@
    - 1 mark for making the CSS for your promotion pages look as close
      to theoatmeal comic as possible (don't steal his images).
 
-   Marks will be deducted for lack of screenshots and lack of README or wrong file locations. 
+   Marks will be deducted for lack of screenshots and lack of README or wrong file locations.

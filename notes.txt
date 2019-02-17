@@ -1,0 +1,4 @@
+1, https://uofa-cmput404.github.io/cmput404-slides/06-HTML.html#/34
+  css element to style all tag at once
+
+change head with link to css stay
