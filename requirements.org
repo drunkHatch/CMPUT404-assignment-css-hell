@@ -29,7 +29,7 @@
 *** Requirements
 
     - [1] Theme paragraphs with CSS
-    - [1] Theme header tags with CSS // h1-h6?
+    - [0.5] Theme header tags with CSS // h1-h6?
     - [0.5] Theme images and images captions with CSS // how to set captions
     - [1] Change the colour scheme to something aesthetically pleasing
     - [1] Apply 1 CSS file to 3 gutenberg documents.
@@ -76,13 +76,13 @@
     - [ ] your photo (try to keep it professional)
     - [ ] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
-    - [ ] Ensure that files are appropriately named and CASE SENSITIVE.
+    - [0.5] Ensure that files are appropriately named and CASE SENSITIVE.
     - [ ] homepage/good.html should host your good page
     - [ ] homepage/ugly.html should host your ugly page
-    - [ ] gutenberg/1.html should host your first gutenberg book
-    - [ ] gutenberg/2.html should host your second gutenberg book
-    - [ ] gutenberg/3.html should host your third gutenberg book
-    - [ ] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
+    - [1] gutenberg/1.html should host your first gutenberg book
+    - [1] gutenberg/2.html should host your second gutenberg book
+    - [1] gutenberg/3.html should host your third gutenberg book
+    - [0.5] screenshots good.png, bad.png, gutenberg1.png, gutenberg2.png, gutenberg3.png should be in the root of the project.
 
 ** Restrictions
    - [ ] You may use Python
