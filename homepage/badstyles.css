@@ -1,0 +1,29 @@
+h1 {
+	text-align: center;
+	font-size: 70pt;
+	background: linear-gradient(to right, #f3f600 0%, #1f25fa 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+ul {
+	list-style-type: none;
+
+	overflow: hidden;
+	text-align: center;
+}
+
+ul li{
+	font-size: 20pt;
+	display: inline;
+	background: #ff9999;
+	text-align: center;
+}
+
+div.header {
+	background-color: blue;
+}
+
+div.sidebar {
+	float: right;
+	background-color: yellow;
+}
