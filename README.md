@@ -30,6 +30,9 @@ Reference
   4, SCII1.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl<br>
   5, SonsOfKorhal.jpg http://us.battle.net/sc2/en/media/artwork/?view=artwork-sonsofkorhal<br>
   6, witcher3noticeboard.png https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjj5tjN5dXgAhXIjFQKHdy_DHkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwitcher%2Fcomments%2F4ru6ib%2Fplaying_in_english_but_this_is_on_a_notice_board%2F&psig=AOvVaw1aPe9VuUu2ZeMr7MA3872T&ust=1551146624085194<br>
+  7, 1.html http://www.gutenberg.org/ebooks/1399
+  8, 2.html http://www.gutenberg.org/ebooks/98
+  8, 3.html http://www.gutenberg.org/ebooks/1342
 
 License/Copyright
 =================
