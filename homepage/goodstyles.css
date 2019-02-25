@@ -1,0 +1,81 @@
+html {
+    background: #fff url('images/SonsOfKorhal.jpg');
+    background-size: cover;
+    background-repeat: repeat-y;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, serif;
+    font-family: Fakedes, serif;
+}
+
+body {
+  text-align: justify;
+  background-image: url();
+  background-size: contain;
+  height: 100%;
+  margin-right: 15%;
+  margin-left: 15%;
+
+  color: yellow;
+  text-shadow: -0.5px 0 red, 0 0.5px red, 0.5px 0 red, 0 -0.5px red;
+}
+
+img {
+   display: block;
+   margin-left: 30%;
+   margin-right: 20%;
+}
+
+img.side {
+   display: auto;
+   margin-left: 30%;
+   margin-right: 20%;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 70pt;
+  color: yellow;
+  text-shadow: -5px 0 red, 0 5px red, 5px 0 red, 0 -5px red;
+}
+
+h2 {
+}
+
+ul {
+	list-style-type: none;
+	overflow: hidden;
+	text-align: center;
+}
+
+ul li{
+	font-size: 20pt;
+	display: inline;
+	text-align: center;
+  color: white;
+}
+
+a.bar {
+  color: yellow;
+  text-shadow: -0.5px 0 red, 0 0.5px red, 0.5px 0 red, 0 -0.5px red;
+}
+
+div.header {
+}
+
+div.sidebar {
+	float: right;
+}
+
+div.myinfo {
+  text-align: justify;
+  background-size: contain;
+  height: 100%;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+
+p{
+  color: white;
+}
