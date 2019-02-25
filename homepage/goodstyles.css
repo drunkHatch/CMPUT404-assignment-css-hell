@@ -10,7 +10,7 @@ html {
 
 body {
   text-align: justify;
-  background-image: url();
+  background-color: black;
   background-size: contain;
   height: 100%;
   margin-right: 15%;
@@ -62,6 +62,19 @@ a.bar {
 }
 
 div.header {
+    align-content: center;
+}
+div.my_photo{
+    float: left;
+    margin-left: 15%;
+    margin-right: -20%;
+    margin-top: 1%;
+}
+
+img{
+    float: none;
+    width: 100pt;
+    height: auto;
 }
 
 div.sidebar {

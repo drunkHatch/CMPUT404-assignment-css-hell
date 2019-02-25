@@ -27,3 +27,8 @@ div.sidebar {
 	float: right;
 	background-color: yellow;
 }
+
+img {
+	width: 100pt;
+    height: auto;
+}
