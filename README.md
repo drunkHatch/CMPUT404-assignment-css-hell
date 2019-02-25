@@ -26,6 +26,8 @@ reference;
   3, metal_bg.jpg https://www.123rf.com/photo_13269385_metal-background.html
   4, SCII1.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl
   5, SonsOfKorhal.jpg http://us.battle.net/sc2/en/media/artwork/?view=artwork-sonsofkorhal
+  6, witcher3noticeboard.png https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjj5tjN5dXgAhXIjFQKHdy_DHkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwitcher%2Fcomments%2F4ru6ib%2Fplaying_in_english_but_this_is_on_a_notice_board%2F&psig=AOvVaw1aPe9VuUu2ZeMr7MA3872T&ust=1551146624085194
+
 
 
 Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
