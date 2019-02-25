@@ -14,22 +14,22 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Part I
 =================
-1, add background image to body
-2, let background image stretch horizontally and repeat vertically
-3, set paragraph margin top/bottom to 20pt
-4, img margin are setted to put image in the center, cations are 300pt
-5, all headers are now italic
-6, changed font-style of headers to italic
+1, add background image to body<br>
+2, let background image stretch horizontally and repeat vertically<br>
+3, set paragraph margin top/bottom to 20pt<br>
+4, img margin are setted to put image in the center, cations are 300pt<br>
+5, all headers are now italic<br>
+6, a small part of styles of headers are inherited from origin gutenburg in-line css
 
 
 Reference
 =================
-  1, cat_image.png https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png
-  2, SC2bot.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl
-  3, metal_bg.jpg https://www.123rf.com/photo_13269385_metal-background.html
-  4, SCII1.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl
-  5, SonsOfKorhal.jpg http://us.battle.net/sc2/en/media/artwork/?view=artwork-sonsofkorhal
-  6, witcher3noticeboard.png https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjj5tjN5dXgAhXIjFQKHdy_DHkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwitcher%2Fcomments%2F4ru6ib%2Fplaying_in_english_but_this_is_on_a_notice_board%2F&psig=AOvVaw1aPe9VuUu2ZeMr7MA3872T&ust=1551146624085194
+  1, cat_image.png https://upload.wikimedia.org/wikipedia/en/f/f6/Tom_Tom_and_Jerry.png<br>
+  2, SC2bot.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl<br>
+  3, metal_bg.jpg https://www.123rf.com/photo_13269385_metal-background.html<br>
+  4, SCII1.png https://drive.google.com/drive/u/0/folders/1eGOicmJ8Mn_L2BZRwP2AOPy_2a7zJeUl<br>
+  5, SonsOfKorhal.jpg http://us.battle.net/sc2/en/media/artwork/?view=artwork-sonsofkorhal<br>
+  6, witcher3noticeboard.png https://www.google.com/url?sa=i&source=imgres&cd=&cad=rja&uact=8&ved=2ahUKEwjj5tjN5dXgAhXIjFQKHdy_DHkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwitcher%2Fcomments%2F4ru6ib%2Fplaying_in_english_but_this_is_on_a_notice_board%2F&psig=AOvVaw1aPe9VuUu2ZeMr7MA3872T&ust=1551146624085194<br>
 
 License/Copyright
 =================
