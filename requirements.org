@@ -36,7 +36,7 @@
     - [1] Include all 3 gutenberg documents HTML and assets, with the CSS applied.
     - [1] document in your README what modifications you had to make
       to the project gutenberg HTML files.
-    - [0] Take 3 screenshots of firefox running all of your pages that
+    - [1] Take 3 screenshots of firefox running all of your pages that
       demonstrates your theme.
 
 ** Part II
@@ -73,7 +73,7 @@
     - [1] 1 good CSS theme
     - [1] Ugly theme has to be noticeabley different.
     - [1] 2 HTML files, each with the same content but different CSS
-    - [ ] your photo (try to keep it professional)
+    - [1] your photo (try to keep it professional)
     - [1] Take 2 screenshots of firefox running all of your pages that
       demonstrates your theme.
     - [1] Ensure that files are appropriately named and CASE SENSITIVE.
@@ -87,7 +87,7 @@
 ** Restrictions
    - [1] You may use Python
    - [1] Must run in your VM (Firefox and Chromium)
-   - [ ] License your content properly (use a Creative Commons License
+   - [1] License your content properly (use a Creative Commons License
      like CC-BY-ND or CC-BY-SA)
      - Put your name on it!
    - [1] If you borrow CSS, always cite the author and the source
